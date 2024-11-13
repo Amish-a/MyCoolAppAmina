@@ -1,0 +1,6 @@
+<!-- Файл colors.xml -->
+<resources>
+    <color name="colorPrimary">#3F51B5</color> <!-- Новий колір primary -->
+    <color name="colorPrimaryDark">#303F9F</color> <!-- Новий колір primaryDark -->
+    <color name="colorAccent">#FF4081</color> <!-- Новий колір accent -->
+</resources>
